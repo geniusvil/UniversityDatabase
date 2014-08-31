@@ -1,0 +1,26 @@
+C:\MyStaff\11.DataBase\HOMEWORK\09.Homework-CodeFirst\UniversitySystem\UniversitySystem.ConsoleClient\bin\Debug\UniversitySystem.ConsoleClient.exe.config
+C:\MyStaff\11.DataBase\HOMEWORK\09.Homework-CodeFirst\UniversitySystem\UniversitySystem.ConsoleClient\bin\Debug\UniversitySystem.ConsoleClient.exe
+C:\MyStaff\11.DataBase\HOMEWORK\09.Homework-CodeFirst\UniversitySystem\UniversitySystem.ConsoleClient\bin\Debug\UniversitySystem.ConsoleClient.pdb
+C:\MyStaff\11.DataBase\HOMEWORK\09.Homework-CodeFirst\UniversitySystem\UniversitySystem.ConsoleClient\bin\Debug\EntityFramework.dll
+C:\MyStaff\11.DataBase\HOMEWORK\09.Homework-CodeFirst\UniversitySystem\UniversitySystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\MyStaff\11.DataBase\HOMEWORK\09.Homework-CodeFirst\UniversitySystem\UniversitySystem.ConsoleClient\bin\Debug\UniversitySystem.Data.dll
+C:\MyStaff\11.DataBase\HOMEWORK\09.Homework-CodeFirst\UniversitySystem\UniversitySystem.ConsoleClient\bin\Debug\UniversitySystem.Models.dll
+C:\MyStaff\11.DataBase\HOMEWORK\09.Homework-CodeFirst\UniversitySystem\UniversitySystem.ConsoleClient\bin\Debug\UniversitySystem.Data.pdb
+C:\MyStaff\11.DataBase\HOMEWORK\09.Homework-CodeFirst\UniversitySystem\UniversitySystem.ConsoleClient\bin\Debug\UniversitySystem.Models.pdb
+C:\MyStaff\11.DataBase\HOMEWORK\09.Homework-CodeFirst\UniversitySystem\UniversitySystem.ConsoleClient\bin\Debug\EntityFramework.xml
+C:\MyStaff\11.DataBase\HOMEWORK\09.Homework-CodeFirst\UniversitySystem\UniversitySystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\MyStaff\11.DataBase\HOMEWORK\09.Homework-CodeFirst\UniversitySystem\UniversitySystem.ConsoleClient\obj\Debug\UniversitySystem.ConsoleClient.csprojResolveAssemblyReference.cache
+C:\MyStaff\11.DataBase\HOMEWORK\09.Homework-CodeFirst\UniversitySystem\UniversitySystem.ConsoleClient\obj\Debug\UniversitySystem.ConsoleClient.exe
+C:\MyStaff\11.DataBase\HOMEWORK\09.Homework-CodeFirst\UniversitySystem\UniversitySystem.ConsoleClient\obj\Debug\UniversitySystem.ConsoleClient.pdb
+C:\MyStaff\someHelp\UniversitySystem\UniversitySystem.ConsoleClient\bin\Debug\UniversitySystem.ConsoleClient.exe.config
+C:\MyStaff\someHelp\UniversitySystem\UniversitySystem.ConsoleClient\obj\Debug\UniversitySystem.ConsoleClient.exe
+C:\MyStaff\someHelp\UniversitySystem\UniversitySystem.ConsoleClient\obj\Debug\UniversitySystem.ConsoleClient.pdb
+C:\MyStaff\GitHub\UniversityDatabase\UniversitySystem\UniversitySystem.ConsoleClient\bin\Debug\UniversitySystem.ConsoleClient.exe.config
+C:\MyStaff\GitHub\UniversityDatabase\UniversitySystem\UniversitySystem.ConsoleClient\obj\Debug\UniversitySystem.ConsoleClient.exe
+C:\MyStaff\GitHub\UniversityDatabase\UniversitySystem\UniversitySystem.ConsoleClient\obj\Debug\UniversitySystem.ConsoleClient.pdb
+C:\MyStaff\GitHub\UniversitySystem\UniversitySystem\UniversitySystem.ConsoleClient\bin\Debug\UniversitySystem.ConsoleClient.exe.config
+C:\MyStaff\GitHub\UniversitySystem\UniversitySystem\UniversitySystem.ConsoleClient\obj\Debug\UniversitySystem.ConsoleClient.exe
+C:\MyStaff\GitHub\UniversitySystem\UniversitySystem\UniversitySystem.ConsoleClient\obj\Debug\UniversitySystem.ConsoleClient.pdb
+C:\Users\VIL\Desktop\New folder (2)\UniversitySystem\UniversitySystem.ConsoleClient\bin\Debug\UniversitySystem.ConsoleClient.exe.config
+C:\Users\VIL\Desktop\New folder (2)\UniversitySystem\UniversitySystem.ConsoleClient\obj\Debug\UniversitySystem.ConsoleClient.exe
+C:\Users\VIL\Desktop\New folder (2)\UniversitySystem\UniversitySystem.ConsoleClient\obj\Debug\UniversitySystem.ConsoleClient.pdb

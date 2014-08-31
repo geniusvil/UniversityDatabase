@@ -1,0 +1,12 @@
+C:\MyStaff\11.DataBase\HOMEWORK\09.Homework-CodeFirst\UniversitySystem\UniversitySystem.Data\obj\Debug\UniversitySystem.Data.csprojResolveAssemblyReference.cache
+C:\MyStaff\11.DataBase\HOMEWORK\09.Homework-CodeFirst\UniversitySystem\UniversitySystem.Data\bin\Debug\UniversitySystem.Data.dll.config
+C:\MyStaff\11.DataBase\HOMEWORK\09.Homework-CodeFirst\UniversitySystem\UniversitySystem.Data\bin\Debug\UniversitySystem.Data.dll
+C:\MyStaff\11.DataBase\HOMEWORK\09.Homework-CodeFirst\UniversitySystem\UniversitySystem.Data\bin\Debug\UniversitySystem.Data.pdb
+C:\MyStaff\11.DataBase\HOMEWORK\09.Homework-CodeFirst\UniversitySystem\UniversitySystem.Data\bin\Debug\EntityFramework.dll
+C:\MyStaff\11.DataBase\HOMEWORK\09.Homework-CodeFirst\UniversitySystem\UniversitySystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\MyStaff\11.DataBase\HOMEWORK\09.Homework-CodeFirst\UniversitySystem\UniversitySystem.Data\bin\Debug\UniversitySystem.Models.dll
+C:\MyStaff\11.DataBase\HOMEWORK\09.Homework-CodeFirst\UniversitySystem\UniversitySystem.Data\bin\Debug\UniversitySystem.Models.pdb
+C:\MyStaff\11.DataBase\HOMEWORK\09.Homework-CodeFirst\UniversitySystem\UniversitySystem.Data\bin\Debug\EntityFramework.xml
+C:\MyStaff\11.DataBase\HOMEWORK\09.Homework-CodeFirst\UniversitySystem\UniversitySystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\MyStaff\11.DataBase\HOMEWORK\09.Homework-CodeFirst\UniversitySystem\UniversitySystem.Data\obj\Debug\UniversitySystem.Data.dll
+C:\MyStaff\11.DataBase\HOMEWORK\09.Homework-CodeFirst\UniversitySystem\UniversitySystem.Data\obj\Debug\UniversitySystem.Data.pdb
