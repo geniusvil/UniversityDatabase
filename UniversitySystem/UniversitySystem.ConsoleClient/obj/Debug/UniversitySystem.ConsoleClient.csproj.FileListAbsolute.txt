@@ -24,3 +24,14 @@ C:\MyStaff\GitHub\UniversitySystem\UniversitySystem\UniversitySystem.ConsoleClie
 C:\Users\VIL\Desktop\New folder (2)\UniversitySystem\UniversitySystem.ConsoleClient\bin\Debug\UniversitySystem.ConsoleClient.exe.config
 C:\Users\VIL\Desktop\New folder (2)\UniversitySystem\UniversitySystem.ConsoleClient\obj\Debug\UniversitySystem.ConsoleClient.exe
 C:\Users\VIL\Desktop\New folder (2)\UniversitySystem\UniversitySystem.ConsoleClient\obj\Debug\UniversitySystem.ConsoleClient.pdb
+C:\Users\VIL\Desktop\New folder (2)\UniversitySystem\UniversitySystem.ConsoleClient\obj\Debug\UniversitySystem.ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\VIL\Desktop\New folder (2)\UniversitySystem\UniversitySystem.ConsoleClient\bin\Debug\UniversitySystem.ConsoleClient.exe
+C:\Users\VIL\Desktop\New folder (2)\UniversitySystem\UniversitySystem.ConsoleClient\bin\Debug\UniversitySystem.ConsoleClient.pdb
+C:\Users\VIL\Desktop\New folder (2)\UniversitySystem\UniversitySystem.ConsoleClient\bin\Debug\EntityFramework.dll
+C:\Users\VIL\Desktop\New folder (2)\UniversitySystem\UniversitySystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VIL\Desktop\New folder (2)\UniversitySystem\UniversitySystem.ConsoleClient\bin\Debug\UniversitySystem.Data.dll
+C:\Users\VIL\Desktop\New folder (2)\UniversitySystem\UniversitySystem.ConsoleClient\bin\Debug\UniversitySystem.Models.dll
+C:\Users\VIL\Desktop\New folder (2)\UniversitySystem\UniversitySystem.ConsoleClient\bin\Debug\UniversitySystem.Data.pdb
+C:\Users\VIL\Desktop\New folder (2)\UniversitySystem\UniversitySystem.ConsoleClient\bin\Debug\UniversitySystem.Models.pdb
+C:\Users\VIL\Desktop\New folder (2)\UniversitySystem\UniversitySystem.ConsoleClient\bin\Debug\EntityFramework.xml
+C:\Users\VIL\Desktop\New folder (2)\UniversitySystem\UniversitySystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml

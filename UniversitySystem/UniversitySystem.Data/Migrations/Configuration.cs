@@ -4,6 +4,7 @@ namespace UniversitySystem.Data.Migrations
     using System;
     using System.Data.Entity.Migrations;
     using System.Linq;
+using System.Collections.Generic;
 
     public sealed class Configuration : DbMigrationsConfiguration<UniversitySystemDbContext>
     {
@@ -16,91 +17,70 @@ namespace UniversitySystem.Data.Migrations
 
         protected override void Seed(UniversitySystemDbContext context)
         {
-            this.SeedCourses(context);
-            this.SeedStudents(context);
-            this.SeedHomework(context);
-        }
-      
+           if(!context.Courses.Any() && !context.Students.Any())
+           {
+               return;
+           }
 
-        private void SeedStudents(UniversitySystemDbContext context)
-        {
-            if (context.Students.Any())
-            {
-                return;
-            }
+           var studentFirst = new Student
+           {
+               FirstName = "Tony",
+               LastName = "Steel",
+               Level = 6
+           };
+           context.Students.Add(studentFirst);
 
-            context.Students.Add(new Student
-            {
-                FirstName = "Tony",
-                LastName = "Steel",
-                Level = 13
-            });
+           var studentSecond = new Student
+           {
+               FirstName = "Kevin",
+               LastName = "Smith",
+               Level = 21,
+           };
+           context.Students.Add(studentSecond);
 
-            context.Students.Add(new Student
-            {
-                FirstName = "Kevin",
-                LastName = "Smith",
-                Level = 21,
-            });
+           var studentThird = new Student
+           {
+               FirstName = "Sam",
+               LastName = "Green",
+               Level = 1
+           };
+           context.Students.Add(studentThird);
 
-            context.Students.Add(new Student
-            {
-                FirstName = "Henry",
-                LastName = "Waiting",
-                Level = 4
-            });
+           var studentForth = new Student
+           {
+               FirstName = "Henry",
+               LastName = "Waiting",
+               Level = 4
+           };
+           context.Students.Add(studentForth);
 
-            context.Students.Add(new Student
-            {
-                FirstName = "Terry",
-                LastName = "Ostin",
-                Level = 8
-            });
-            context.SaveChanges();
-        }
+           var studentFifth = new Student
+           {
+               FirstName = "Terry",
+               LastName = "Ostin",
+               Level = 8
+           };
+           context.Students.Add(studentFifth);
+           context.SaveChanges();
 
-        private void SeedCourses(UniversitySystemDbContext context)
-        {
-            if (context.Courses.Any())
-            {
-                return;
-            }
+           var courseFirst = new Course
+           {
+               Name = "Playnig Guitar",
+               Description = "Learning how to play guitar",
+               Students = new HashSet<Student> { studentThird, studentFifth, studentForth, studentSecond },
 
-            context.Courses.Add(new Course
-            {
-                Name = "Drawing Manga",
-                Description = "Learning how to draw manga"
-            });
+           };
+           context.Courses.Add(courseFirst);
 
-            context.Courses.Add(new Course
-            {
-                Name = "Playnig Guitar",
-                Description = "Learning how to play guitar"
-            });
+           var courseSecond = new Course
+           {
+               Name = "Drawing Manga",
+               Description = "Learning how to draw manga",
+               Students = new HashSet<Student> { studentFirst, studentForth, studentSecond },
+           };
 
-            context.SaveChanges();
-        }
-
-        private void SeedHomework(UniversitySystemDbContext context)
-        {
-            if (context.Homeworks.Any())
-            {
-                return;
-            }
-
-            context.Homeworks.Add(new Homework
-            {
-                FileUrl = @"http:///en.wikipedia.org/wiki/Guitar",
-                TimeSent = new DateTime(2014,09,03),
-            });
-
-            context.Homeworks.Add(new Homework
-            {
-                FileUrl = @"http:///en.wikipedia.org/wiki/Manga",
-                TimeSent = new DateTime(2014, 09, 06),
-            });
-
-            context.SaveChanges();
+           context.Courses.Add(courseSecond);
+           context.SaveChanges();
         }
     }
 }

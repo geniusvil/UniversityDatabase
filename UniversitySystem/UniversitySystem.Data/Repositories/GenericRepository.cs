@@ -61,7 +61,7 @@
             var entry = this.context.Entry(entity);
             if (entry.State == EntityState.Detached)
             {
-                this.set.Attach(entity);
+              //  this.set.Attach(entity);
             }
 
             return entry;

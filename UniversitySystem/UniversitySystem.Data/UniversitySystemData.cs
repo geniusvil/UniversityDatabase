@@ -36,13 +36,13 @@
             }
         }
 
-        public IGenericRepository<Homework> Homeworks
-        {
-            get 
-            {
-                return this.GetRepository<Homework>(); 
-            }
-        }
+       public IGenericRepository<Homework> Homeworks
+       {
+           get 
+           {
+               return this.GetRepository<Homework>(); 
+           }
+       }
 
         public void SaveChanges()
         {
